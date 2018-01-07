@@ -1,7 +1,5 @@
 [![GitHub release](https://pcsx4.com/wp-content/uploads/2016/07/main_logo-back-1.svg)](https://github.com/OGRECave/ogre/releases/latest)
-(https://badges.gitter.im/OGRECave/ogre.svg)](https://gitter.im/OGRECave/ogre?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-![](Docs/ogre-logo-wetfloor.gif)
 
 ## Summary
 Flexible PCSX4 3D engine written in C++ designed to make it
