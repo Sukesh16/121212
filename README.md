@@ -4,8 +4,7 @@
 ![](Docs/ogre-logo-wetfloor.gif)
 
 ## Summary
-**OGRE** (Object-Oriented Graphics Rendering Engine) is a
-scene-oriented, flexible 3D engine written in C++ designed to make it
+Flexible PCSX4 3D engine written in C++ designed to make it
 easier and more intuitive for developers to produce games and demos
 utilising 3D hardware. The class library abstracts all the details of
 using the underlying system libraries like Direct3D and OpenGL and
