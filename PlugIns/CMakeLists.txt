@@ -7,6 +7,7 @@
 # free to make use of it in any way you like.
 #-------------------------------------------------------------------
 
+
 # Configure Plugins build
 
 if (OGRE_BUILD_PLUGIN_OCTREE)
