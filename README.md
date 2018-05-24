@@ -1,4 +1,4 @@
-[![GitHub release](https://pcsx4.com/wp-content/uploads/2016/07/main_logo-back-1.svg)](https://github.com/OGRECave/ogre/releases/latest)
+[![GitHub release](https://pcsx4.com/wp-content/uploads/2018/04/pcsx4-ps4-emulator-logo-icon-mini.png)](https://github.com/OGRECave/ogre/releases/latest)
 
 
 ## Summary
@@ -11,7 +11,7 @@ classes.
 
 | Build | Status (github) |
 |-------|-----------------|
-| Windows, OSX| [![Build Status](https://travis-ci.org/OGRECave/ogre.svg?branch=master)](https://travis-ci.org/OGRECave/ogre) |
+| Windows [![Build Status](https://travis-ci.org/OGRECave/ogre.svg?branch=master)](https://travis-ci.org/OGRECave/ogre) |
 | MSVC | [![Build status](https://ci.appveyor.com/api/projects/status/kcki7y0n1ahrggdw/branch/master?svg=true)](https://ci.appveyor.com/project/paroj/ogre-bsrh7/branch/master) |
 
 ## Index Of Contents
